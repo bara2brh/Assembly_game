@@ -5,5 +5,5 @@ export default defineConfig({
 	plugins: [
 		react()
 	],
-	base:"/Assembly_game"
+	base:"/Assembly_game/"
 })
