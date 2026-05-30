@@ -188,6 +188,8 @@ button.new-game {
     display: block;
     margin-inline: auto;
     cursor: pointer;
+    color: #000;
+    -webkit-text-fill-color: #000;
 }
 
 .sr-only {
